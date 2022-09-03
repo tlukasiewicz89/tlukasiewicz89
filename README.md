@@ -1,5 +1,5 @@
-### Hi there 👋 
-#### My name is Thomas Lukasiewicz
+=<h1 align="center">Hi 👋, I'm Thomas Lukasiewicz</h1>
+<h3 align="center">Fullstack Software Engineer</h3>
 
 - 🔭 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)
 
