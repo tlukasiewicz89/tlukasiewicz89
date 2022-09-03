@@ -1,5 +1,5 @@
 ### Hi there 👋 
-## My name is Thomas Lukasiewicz
+#### My name is Thomas Lukasiewicz
 
 - 🔭 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)
 
