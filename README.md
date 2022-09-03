@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+## My name is Thomas Lukasiewicz
+
+- 🔭 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)
+
+- 💬 Ask me about **React, React Hooks, Redux, SQL/NoSQL databases, Node.js(Express) and HTML/CSS/JS**
+
+- 📫 How to reach me **tlukasiewicz89@gmail.com**
+
 
 <!--
 **tlukasiewicz89/tlukasiewicz89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
