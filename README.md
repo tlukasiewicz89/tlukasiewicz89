@@ -11,7 +11,6 @@
 
 <a href="https://www.linkedin.com/in/thomas-lukasiewicz/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" height="50" /></a>
 <a href="https://www.facebook.com/thomas.lukasiewicz/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174848.png" height="50" /></a>
-<a href="https://www.instagram.com/tommy_victor_l/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="50" /></a>
 <a href="https://leetcode.com/tlukasiewicz89/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" height="50" /></a>
 <a href="https://twitter.com/ReacType" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536424.png" height="50" /></a>
 
