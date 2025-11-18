@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ReacType](https://github.com/open-source-labs/ReacType)
 
-- 💬 Ask me about **React, React Hooks, Redux, SQL/NoSQL databases, Node.js(Express), HTML/CSS/JS and Webpack**
+- 💬 Ask me about **React-Native, React Hooks, Redux, SQL/NoSQL databases, Node.js(Express), HTML/CSS/JS and Webpack**
 
 - 📫 How to reach me **tlukasiewicz89@gmail.com**
 
